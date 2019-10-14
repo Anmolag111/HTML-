@@ -1,0 +1,33 @@
+body{
+
+
+	color: #bdc3c7;
+}h1{
+
+	color:#9b59b6;
+
+}
+li	
+{color: blue;}
+p{
+	background: yellow;
+}
+
+.selector
+{border: 3px red dashed;}
+.hello
+{background: white;}
+#special{border: 2px blue solid;}
+#special1{background-color: grey;}
+div p{
+font-size: 30px;
+
+}
+div:nth-of-type(3)
+{background-color:red;ss }
+/*
+
+
+
+.yes
+{background-color: blue;}*/
